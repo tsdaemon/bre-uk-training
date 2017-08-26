@@ -1,4 +1,5 @@
-download_data.sh
-result.csv
-people.person.parents.svm
-uk_model.dat
+*.sh
+*.csv
+*.svm
+*.pkl
+*.dat
